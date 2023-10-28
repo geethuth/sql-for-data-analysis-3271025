@@ -3,3 +3,4 @@ SELECT TRIM(
     FROM ProductCode
   ) AS TrimmedProductCode
 FROM Product
+

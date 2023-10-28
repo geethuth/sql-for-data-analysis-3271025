@@ -1,0 +1,1 @@
+SELECT UPPER(Concat(FirstName, ' ', LastName)) FROM Customer;
